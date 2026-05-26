@@ -3,7 +3,7 @@
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
-![Spotify Logo]("C:\Users\hp\Downloads\najirh-Spotify-Data-Analysis-using-SQL-main\Spotify_App_Logo.svg.png")
+![Spotify Logo](Spotify_App_Logo.svg.png)
 
 ## Overview
 
