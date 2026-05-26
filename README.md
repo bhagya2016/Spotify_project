@@ -1,4 +1,4 @@
-# Spotify SQL Analytics Project
+#Spotify Analytics Dashboard using SQL & Power BI
 
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
